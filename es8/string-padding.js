@@ -1,3 +1,4 @@
+////////////////////RUN ONLY TYPESCRIPT (Not Implemented in Javascript)
 'use strict'
 const defaultString = 'Erick'
 defaultString.padStart(10)
