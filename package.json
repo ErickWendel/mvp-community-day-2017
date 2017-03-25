@@ -1,0 +1,17 @@
+{
+  "name": "mvp-community-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "dependencies": {
+    "@types/node": "^7.0.11",
+    "co": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
